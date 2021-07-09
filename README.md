@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Udit Goyal</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">Passionate to work with Computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit0012&label=Profile%20views&color=0e75b6&style=flat" alt="udit0012" /> </p>
 
-- 🌱 I’m currently learning **Python And Backend Development**
+- 🌱 I’m currently learning **Python And Backend Development and Full stack Web Development**
 
 - 💬 Ask me about **what i know**
 
