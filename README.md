@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit0012&label=Profile%20views&color=0e75b6&style=flat" alt="udit0012" /> </p>
 
-- 🌱 I’m currently learning **Python And Backend Development and Full stack Web Development**
+- 🌱 I’m currently learning **Python and Full stack Web Development**
 
 - 💬 Ask me about **what i know**
 
