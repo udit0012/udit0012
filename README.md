@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit0012&label=Profile%20views&color=0e75b6&style=flat" alt="udit0012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udit0012" alt="udit0012" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/me_gotnochillz" target="blank"><img src="https://img.shields.io/twitter/follow/uditgoyal0012?logo=twitter&style=for-the-badge" alt="uditgoyal0012" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/udit0012?tab=repositories](https://github.com/udit0012?tab=repositories)
