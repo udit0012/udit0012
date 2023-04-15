@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/me_gotnochillz" target="blank"><img src="https://img.shields.io/twitter/follow/uditgoyal0012?logo=twitter&style=for-the-badge" alt="uditgoyal0012" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and Material UI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/udit0012?tab=repositories](https://github.com/udit0012?tab=repositories)
 
 - 💬 Ask me about **React, Python, Mongoose, Socekt.io**
 
-- 📫 How to reach me **royalboy0012@gmail.com**
+- 📫 How to reach me **akshitgoyal0012@gmail.com**
 
 - ⚡ Fun fact **I am good at cracking jokes and that was a joke**
 
