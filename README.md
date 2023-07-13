@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/udit0012?tab=repositories](https://github.com/udit0012?tab=repositories)
 
-- 💬 Ask me about **React, Python, Mongoose, Socekt.io**
+- 💬 Ask me about **C++, React, Javascript, Nodejs and Data structures**
 
 - 📫 How to reach me **akshitgoyal0012@gmail.com**
 
