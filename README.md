@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Goyal</h1>
-<h3 align="center">I and my laptop is a passionate frontend Developer</h3>
+<h3 align="center">I and my laptop is a passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit0012&label=Profile%20views&color=0e75b6&style=flat" alt="udit0012" /> </p>
 
